@@ -1,0 +1,14 @@
+{
+  "name": "crash",
+  "version": "1.0.0",
+  "description": "this project is about stdents",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
