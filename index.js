@@ -135,24 +135,36 @@
 //console.log(fruits)
 
 
-function dev( ){
-    console.log("dev")
-}
+//function dev( ){
+    //console.log("dev")
+//}
 // when you write a fuuunction yo have tto call the fnction for the function to be defined
 //a call back fnction gives the varible a nmber so that every thing will be install
 
 
 //call  back fuunction.
 
-const dev = () =>{
+//const dev = () =>{
 
-}
+//}
 
+
+ //const dev = (part1, part2) => {
+    //console.log("dev")
+
+//}
+//dev(2, 3)
 const dev = (part1, part2) => {
-    console.log("dev")
+    
+    console.log({sum:part1+part2})
 
 }
+
 dev(2, 3)
+
+//the preciple of pushing is that you will have to pull first.
+
+
 
 
 
